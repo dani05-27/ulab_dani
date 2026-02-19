@@ -1,0 +1,1 @@
+ls - list files, cd - change directory, pwd - print working directory, cp - copy files or folders, rm - remove files
